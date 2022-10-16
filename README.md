@@ -7,3 +7,4 @@ You can click the Preview link to take a look at your changes.
 
 ![AVDiv's stats](https://github-readme-stats.vercel.app/api?username=avdiv&show_icons=true&text_color=057CEB&icon_color=08F788&bg_color=28404B&hide_border=true&border_radius=6)
 
+[![@avdiv365's Holopin board](https://holopin.me/avdiv365)](https://holopin.io/@avdiv365)

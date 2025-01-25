@@ -1,7 +1,9 @@
 # Just a bit about me
 
 - Hi, I’m Avin `@AVDiv`
+
 - I'm a:
+  - [x] Data Science Enthusiast
   - [x] Full-stack web developer
   - [x] Open Source Contributor
   - [x] Bot developer
@@ -12,10 +14,10 @@
   - [x] Quantumn Computing
   - [x] Creating bots for different purposes 
 
-# Just some random stat widgets
+<!--START_SECTION:waka-->
 
-![AVDiv's GitHub | Topics Over Time](https://stats.quine.sh/AVDiv/topics-over-time?theme=dark)
+```txt
+No activity tracked
+```
 
-![AVDiv's GitHub | Languages Over Time](https://stats.quine.sh/AVDiv/languages-over-time?theme=dark)
-
-![AVDiv's GitHub | Stats](https://stats.quine.sh/AVDiv/github?theme=dark)
+<!--END_SECTION:waka-->
